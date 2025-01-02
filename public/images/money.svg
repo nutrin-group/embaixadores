@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Heart background -->
+  <path d="M100 180c-30-25-60-50-60-90 0-20 15-35 35-35 15 0 25 10 25 25 0-15 10-25 25-25 20 0 35 15 35 35 0 40-30 65-60 90z" fill="#EC4899"/>
+  
+  <!-- Dollar sign -->
+  <path d="M95 70v-5h10v5m0 60v5H95v-5m-15-30h40M95 65c-8.284 0-15 6.716-15 15 0 8.284 6.716 15 15 15h10c8.284 0 15 6.716 15 15 0 8.284-6.716 15-15 15H95" stroke="white" stroke-width="6" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="200" height="200" viewBox="0 0 200 200" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background -->
+  <circle cx="100" cy="100" r="80" fill="#7C3AED"/>
+  
+  <!-- Growth chart -->
+  <path d="M60 140v-30l25-25 25 15 30-40" stroke="#4ADE80" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  
+  <!-- Trophy -->
+  <path d="M140 60h10v20c0 11-9 20-20 20h-10m-40 0H70c-11 0-20-9-20-20V60h10m40-10v50m0 0c-11 0-20-9-20-20V50h40v30c0 11-9 20-20 20zm-20 20h40v20H80v-20z" stroke="#FBBF24" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>

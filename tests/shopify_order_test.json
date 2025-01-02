@@ -1,0 +1,81 @@
+{
+  "id": 5182490943731,
+  "email": "jon@doe.ca",
+  "closed_at": null,
+  "created_at": "2024-12-12T14:29:25-03:00",
+  "updated_at": "2024-12-12T14:29:25-03:00",
+  "number": 234,
+  "note": null,
+  "token": "123456abcd",
+  "gateway": "bogus",
+  "test": true,
+  "total_price": "250.00",
+  "subtotal_price": "250.00",
+  "total_weight": 0,
+  "total_tax": "0.00",
+  "taxes_included": false,
+  "currency": "BRL",
+  "financial_status": "paid",
+  "confirmed": true,
+  "total_discounts": "25.00",
+  "total_line_items_price": "250.00",
+  "cart_token": null,
+  "buyer_accepts_marketing": false,
+  "name": "#1234",
+  "referring_site": null,
+  "landing_site": null,
+  "cancelled_at": null,
+  "cancel_reason": null,
+  "total_price_usd": "250.00",
+  "checkout_token": null,
+  "reference": null,
+  "user_id": null,
+  "location_id": null,
+  "source_identifier": null,
+  "source_url": null,
+  "processed_at": "2024-12-12T14:29:25-03:00",
+  "device_id": null,
+  "phone": null,
+  "customer_locale": "pt-BR",
+  "order_number": 1234,
+  "discount_codes": [
+    {
+      "code": "TESTE10",
+      "amount": "25.00",
+      "type": "percentage"
+    }
+  ],
+  "note_attributes": [],
+  "payment_gateway_names": [
+    "bogus"
+  ],
+  "processing_method": "direct",
+  "checkout_id": null,
+  "source_name": "web",
+  "fulfillment_status": null,
+  "tax_lines": [],
+  "tags": "",
+  "contact_email": "jon@doe.ca",
+  "order_status_url": "https://gummyhairdev.myshopify.com/order/123456abcd",
+  "presentment_currency": "BRL",
+  "total_line_items_price_set": {
+    "shop_money": {
+      "amount": "250.00",
+      "currency_code": "BRL"
+    },
+    "presentment_money": {
+      "amount": "250.00",
+      "currency_code": "BRL"
+    }
+  },
+  "total_discounts_set": {
+    "shop_money": {
+      "amount": "25.00",
+      "currency_code": "BRL"
+    },
+    "presentment_money": {
+      "amount": "25.00",
+      "currency_code": "BRL"
+    }
+  }
+}
